@@ -1,20 +1,18 @@
-# ambee-web-ui
+# Air Quality Data Nuxt Js (front-end)
 
-## Build Setup
+Front end was implemented using Nuxt Js becasue it provides SSR, isomorphic, and webpack support
+
+## Get Started
+
+To run the project in development mode
 
 ```bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
+npm i
+npm run dev
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+## PS
+This project is still under development and some features like docker and route guard is pending testing are still pending
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
